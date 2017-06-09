@@ -1,6 +1,6 @@
 # angularItunes
 
-##Objectives##
+## Objectives ##
 
 
 
@@ -19,7 +19,7 @@ Angular Services
 Injecting a service into your controller
 Working with third party angular modules (ui-grid)
 
-##Instructions##
+## Instructions ##
 
 If you're feeling adventurous, feel free to change the CSS how you would like.
 Head over to http://angular-ui.github.io/ui-grid/ and check out the examples there. We will be using ui-grid to display the data we get from iTunes. Although all this code will already be in place for you, it's a good idea to get familiar with ui-grid so you know exactly what that code is doing.
